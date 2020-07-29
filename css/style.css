@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgba(3, 3, 37, 0.8);
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.container {
+    min-height: 50vh;
+    margin-top: 15%;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: rgba(3, 3, 37, 0.8) !important;
+    color: #fff !important;
+}
+
+.author {
+    margin-left: 60%;
+    background-color: rgba(3, 3, 37, 0.8);
+    color: #fff !important;
+    border-radius: 50%;
+    font-size: 15px;
+}
+.quote {
+    font-size: 25px;
+}
+.quoteIcon {
+   font-size: 40px;
+}
